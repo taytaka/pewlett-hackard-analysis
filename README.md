@@ -14,4 +14,4 @@ The purpose of this analysis is to further investigate the employees that will b
 ## Summary
 Based on the data, almost 90,000 roles within Pewlett-Hackard are elibile for retirement. This will cause a significant impact on the company as it is almost one-third of their current workforce, as illustrated by the count of total employees by department. ![count_emp_dept.png](Resources/count_emp_dept.png)
 
-There is a significant number of qualified, retirement-ready employees to mentor the next generation of Pewlett-Hackard employees. Each department is well equipped to start a mentorship program for its new employees. ![count_mentors_dept.png](Resourcs/count_mentors_dept.png)
+There is a significant number of qualified, retirement-ready employees to mentor the next generation of Pewlett-Hackard employees. Each department is well equipped to start a mentorship program for its new employees. ![count_mentors_dept.png](Resources/count_mentors_dept.png)
